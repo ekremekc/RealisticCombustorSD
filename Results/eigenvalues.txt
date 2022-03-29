@@ -1,0 +1,23 @@
+XDMF Mesh is loaded.
+Number of cores:  1
+Number of cells:  139425
+Sound speed has imported.
+Passive matrices done.
+All flames are assembled. Eigenvalue solver is starting..
+
+iter =  1,  omega = +2428.5  -10.0j,  |domega| = 5.19e+01
+iter =  2,  omega = +2380.9  -14.7j,  |domega| = 4.78e+01
+iter =  3,  omega = +2380.6  -14.7j,  |domega| = 3.24e-01
+iter =  4,  omega = +2380.6  -14.7j,  |domega| = 9.90e-04
+Eigenvalues are found:
+
+Direct Eigenvalues ->  (2380.595474688932-14.695478715416472j)  =?  (2380.491213058624-15.559856179237691j)
+Direct Eigenvectors are saving now ... 
+
+iter =  1,  omega = +2428.2  +10.0j,  |domega| = 5.15e+01
+iter =  2,  omega = +2380.9  +14.7j,  |domega| = 4.75e+01
+iter =  3,  omega = +2380.6  +14.7j,  |domega| = 3.19e-01
+iter =  4,  omega = +2380.6  +14.7j,  |domega| = 9.68e-04
+Adjoint Eigenvalues ->  (2380.5954757230543+14.695477960497328j)  =?  (2380.4912141549257+15.559855334394058j)
+Total Execution Time:  5:05:42.783897
+
